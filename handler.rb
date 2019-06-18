@@ -19,7 +19,7 @@ def hello(event:, context:)
   item = {
     firstName: f_name,
     lastName: l_name,
-    derp: {
+    data: {
     }
   }
 

@@ -1,4 +1,5 @@
 require 'json'
+require 'faker'
 
 def hello(event:, context:)
   {

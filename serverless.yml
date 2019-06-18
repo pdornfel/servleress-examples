@@ -12,8 +12,8 @@
 # Happy Coding!
 
 service: myService # NOTE: update this with your service name
-#app: your-app-name
-#tenant: your-tenant-name
+tenant: pdornfeld
+app: myapp
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
